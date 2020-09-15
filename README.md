@@ -9,5 +9,5 @@ SS = GPIO4
 RST = GPIO12
 
 library support:
-https://github.com/xreef/PCF8574_library
-https://github.com/sandeepmistry/arduino-LoRa
+https://github.com/xreef/PCF8574_library </br>
+https://github.com/sandeepmistry/arduino-LoRa </br>
